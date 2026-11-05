@@ -2,6 +2,8 @@
 
 **Senior Software Engineer | Technical Leader | Kotlin Enthusiast**
 
+🌐 **[marcow.dev](https://marcow.dev)**: my portfolio and CV
+
 I am a dedicated Software Engineer with a passion for building robust, scalable applications. My engineering journey began with Java in 2018, but I quickly transitioned to **Kotlin**, where my true passion lies. Having co-founded and managed startups (serving as Head of Engineering and Partner), I bring a unique blend of deep technical expertise and a solid understanding of the business strategies required to successfully run a software company.
 
 Currently, I am working as a Senior Software Engineer, focusing heavily on Kotlin and Angular. Alongside that, I build and ship my own product: **AirPace**, a breathwork app for iOS and Android written in **Kotlin Multiplatform** from a single shared codebase.
@@ -44,4 +46,4 @@ An enterprise-grade Kotlin Multiplatform (KMP) & Quarkus spatial inventory syste
 * **Highlights:** Features a unique top-down houseplant blueprint, offline-first SQLDelight caching, and OIDC security. 
 
 ---
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/marco-wuethrich-zh/)
+📫 **Let's Connect:** [marcow.dev](https://marcow.dev) · [LinkedIn](https://www.linkedin.com/in/marco-wuethrich-zh/)
